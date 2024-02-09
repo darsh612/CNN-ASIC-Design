@@ -1,0 +1,51 @@
++CLASS+564
+# +RUN_TYPE+base
+# -------------------------------start_simulation-------------------------------
+# 
+# INFO::tb_top.input_mem.loadInitFile::readmem : ../564/input_0/input_sram_564.dat 
+# INFO::tb_top.weight_mem.loadInitFile::readmem : ../564/input_0/weight_sram_564.dat 
+# -------------------------------Round 0 start-------------------------------
+# 
+# -------------------------------Round 0 check start-------------------------------
+# 
+# -------------------------------store results to g_result.dat-------------------------------
+# 
+# -------------------------------load results to output_array-------------------------------
+# 
+# -------------------------------load results to golden_output_array-------------------------------
+# 
+# INFO::tb_top::readmem : ../564/input_0/golden_base_outputs_564.dat 
+# -------------------------------Round 0 start compare -------------------------------
+# 
+# -------------------------------Round 0 Your report-------------------------------
+# 
+# Check 1 : Correct g results = 143/143
+# computeCycle=12179
+# ---------------------------------------------------------------------------------
+# 
+# INFO::tb_top.input_mem.loadInitFile::readmem : ../564/input_1/input_sram_564.dat 
+# INFO::tb_top.weight_mem.loadInitFile::readmem : ../564/input_1/weight_sram_564.dat 
+# -------------------------------Round 1 start-------------------------------
+# 
+# -------------------------------Round 1 check start-------------------------------
+# 
+# -------------------------------store results to g_result.dat-------------------------------
+# 
+# -------------------------------load results to output_array-------------------------------
+# 
+# -------------------------------load results to golden_output_array-------------------------------
+# 
+# INFO::tb_top::readmem : ../564/input_1/golden_base_outputs_564.dat 
+# -------------------------------Round 1 start compare -------------------------------
+# 
+# -------------------------------Round 1 Your report-------------------------------
+# 
+# Check 1 : Correct g results = 55/55
+# computeCycle=4611
+# ---------------------------------------------------------------------------------
+# 
+# ** Note: $finish    : ../testbench/testbench.sv(349)
+#    Time: 168985 ns  Iteration: 1  Instance: /tb_top
+# 1
+# Break in Module tb_top at ../testbench/testbench.sv line 349
+
